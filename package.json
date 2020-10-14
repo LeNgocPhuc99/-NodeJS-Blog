@@ -1,0 +1,23 @@
+{
+  "name": "Node_JS",
+  "version": "1.0.0",
+  "description": "NodeJS Project1",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeNgocPhuc99/-NodeJS-Blog.git"
+  },
+  "keywords": [],
+  "author": "LeNgocPhuc.aka.Asura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
